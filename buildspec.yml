@@ -4,6 +4,7 @@ phases:
   install:
     runtime-versions:
       nodejs: 15.x
+      nodejs: 16.x
 
   pre_build:
     commands:
